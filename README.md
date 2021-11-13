@@ -22,11 +22,11 @@
 
   <br>
   
-  <img align="right" alt="Manda-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/811386171779186702/908533118263263292/Webp.net-gifmaker_1.gif">
+  <img align="right" alt="Manda-pic" height="140" style="border-radius:50px;" src="https://media.discordapp.net/attachments/811386171779186702/908533118263263292/Webp.net-gifmaker_1.gif">
 </div>
   
   ##
-<br><br>
+
   <div> 
   <a href="https://instagram.com/amandaakiau" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/amanda-akiau-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
