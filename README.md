@@ -22,7 +22,7 @@
 
   <br>
   
-  <img align="right" alt="Manda-pic" height="140" style="border-radius:50px;" src="https://media.discordapp.net/attachments/811386171779186702/908533118263263292/Webp.net-gifmaker_1.gif">
+  <img align="right" alt="Manda-pic" height="100" style="border-radius:50px;" src="https://media.discordapp.net/attachments/811386171779186702/908533118263263292/Webp.net-gifmaker_1.gif">
 </div>
   
   ##
