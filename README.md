@@ -2,9 +2,9 @@
 
 <br>
 
-- 📚 Estudando Python e Linux  
-- 🖋 Utilizo Matlab na minha Graduação 
-- 🔭 Utilizo Macros/VBA no meu estágio
+- 📚 Cursando o último ano em Engenharia de Controle e Automação;
+- 🔭 Desenvolvendo projetos de IA e Mobile utilizando Python e React native, respectivamente;
+- 💻 Conhecimentos gerais em: Python, HTML, CSS, JavaScript, React native, Matlab, Macros/VBA, Linux...   
 
 <br>
 
