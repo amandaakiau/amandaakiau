@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats-3772ur823-hatkid.vercel.app/api/top-langs/?username=hat-kid&theme=radical)](https://github.com/Hat-Kid/github-readme-stats)
+[![Top Langs](https://github-readme-stats-3772ur823-hatkid.vercel.app/api/top-langs/?username=hat-kid&theme=radical&langs_count=10&exclude_repo=se2008,Hat-Kid.github.io)](https://github.com/Hat-Kid/github-readme-stats)
