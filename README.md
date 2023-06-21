@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats-3772ur823-hatkid.vercel.app/api/top-langs/?username=hat-kid&theme=radical&langs_count=10&exclude_repo=se2008,Hat-Kid.github.io)](https://github.com/Hat-Kid/github-readme-stats)
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hat_Kid&theme=synthwave&size_weight=0.5&count_weight=0.5&title_color=36F9F6" alt="My GitHub Time Stats" />
